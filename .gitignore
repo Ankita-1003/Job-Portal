@@ -2,3 +2,5 @@ node_modules
 
 # Secret
 .env
+client/.env
+server/.env
